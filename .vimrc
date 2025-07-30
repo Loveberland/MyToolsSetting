@@ -7,10 +7,10 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'luochen1990/rainbow'           " Rainbow brackets plugin
 
 " --- Functionality & Tools ---
-Plug 'preservim/nerdtree'
-Plug 'tpope/vim-commentary'
-Plug 'tpope/vim-fugitive'
-Plug 'jiangmiao/auto-pairs'
+"Plug 'preservim/nerdtree'
+"Plug 'tpope/vim-commentary'
+"'Plug 'tpope/vim-fugitive'
+"Plug 'jiangmiao/auto-pairs'
 
 call plug#end()
 
