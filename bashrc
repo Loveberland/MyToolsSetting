@@ -42,3 +42,4 @@ alias ll='ls -l --color=auto'
 alias la='ls -a --color=auto'
 alias lla='ls -la --color=auto'
 
+. "$HOME/.cargo/env"
